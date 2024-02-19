@@ -1,0 +1,27 @@
+body {
+    font-family:serif;
+    font-size: medium;
+    margin: 45px 100px 50px;
+    background-image: url(https://i.pinimg.com/564x/d3/c4/07/d3c40701932f9335172a9b3d71f4dffa.jpg);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background-color: aliceblue;
+    border: 40px;
+    border-radius: 40px;
+
+  
+}
+
+div {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    background-color: aliceblue;
+    border: -100px;
+
+}
+
+
